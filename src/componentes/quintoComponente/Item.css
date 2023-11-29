@@ -1,0 +1,22 @@
+img {
+    margin: 0 auto;
+    max-width: 10rem;
+    max-height: 10rem;
+}
+
+.containerItem {
+    padding: 1rem;
+    width: 100%;
+    height: 100%;
+    display: grid;
+    align-self: center;
+    justify-self: center;
+    text-align: center;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+}
+
+.priceItem {
+    color: #85bb65;
+}

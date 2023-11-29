@@ -1,0 +1,15 @@
+.UlNav {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    list-style: none;
+    background-color: rgb(39, 36, 36);
+    text-align: center;
+    height: 4rem;
+    gap: 5px;
+    color: white;
+}
+
+.LiNav{
+    align-self: center;
+    justify-self: center;
+}

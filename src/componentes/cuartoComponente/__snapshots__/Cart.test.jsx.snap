@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas a componente Renderizar componente 1`] = `
+<div>
+  <div
+    class="containerImg"
+  >
+    <img
+      alt=""
+      class="imgText"
+      src="https://img.freepik.com/vector-gratis/diseno-logotipo-tienda-ropa-diseno-plano_23-2149496415.jpg?size=338&ext=jpg&ga=GA1.1.2116175301.1701043200&semt=ais"
+    />
+    <h1
+      class="nameText"
+    />
+  </div>
+</div>
+`;

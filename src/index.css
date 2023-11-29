@@ -1,0 +1,34 @@
+* {
+  font-family: LetraBonicaMiddle;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: LetraBonica;
+  src: url(./assets/Fuentes/static/Montserrat-Light.ttf);
+}
+
+@font-face {
+  font-family: LetraBonicaBold;
+  src: url(./assets/Fuentes/static/Montserrat-Bold.ttf);
+}
+
+@font-face {
+  font-family: LetraBonicaMiddle;
+  src: url(./assets/Fuentes/static/Montserrat-Medium.ttf);
+}
+
+@font-face {
+  font-family: LetraItalic;
+  src: url(./assets/Fuentes/static/Montserrat-BoldItalic.ttf);
+}
+
+h1{
+  font-family: LetraBonicaBold;
+}
+
+p{
+  font-family: LetraBonica;
+}

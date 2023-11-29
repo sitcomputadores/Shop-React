@@ -1,0 +1,46 @@
+.container {
+    width: 80%;
+    margin: 2rem auto;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 0.8rem;
+}
+
+p {
+    color: white;
+    font-family: LetraBonicaBold;
+
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 7rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.item:nth-child(1) {
+    background-image: url(https://b2cmattelsa.vtexassets.com/arquivos/filterCard-basicosh.jpg);
+}
+
+.item:nth-child(2) {
+    background-image: url(https://b2cmattelsa.vtexassets.com/arquivos/filterCard-cargoh.jpg);
+}
+
+.item:nth-child(3) {
+    background-image: url(https://b2cmattelsa.vtexassets.com/arquivos/filterCard-denimh.jpg);
+}
+
+.item:nth-child(4) {
+    background-image: url(https://b2cmattelsa.vtexassets.com/arquivos/filterCard-graficosh.jpg);
+}
+
+.item:nth-child(5) {
+    background-image: url(https://b2cmattelsa.vtexassets.com/arquivos/filterCard-headwear.jpg);
+}
+
+.item:nth-child(6) {
+    background-image: url(https://b2cmattelsa.vtexassets.com/arquivos/filterCard-oversizeh.jpg);
+}

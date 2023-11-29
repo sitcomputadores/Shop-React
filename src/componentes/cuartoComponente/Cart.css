@@ -1,0 +1,13 @@
+.containerImg{
+    text-align: center;
+}
+
+.imgText{
+    width: 10rem;
+    height: 10rem;
+}
+
+.nameText{
+    color: black;
+    margin-bottom: 2rem;
+}
